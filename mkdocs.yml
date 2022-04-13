@@ -1,0 +1,20 @@
+#####################
+# BASICS
+site_name: Edward Ross
+site_url: https://ejpickle.github.io
+
+#####################
+# NAV 
+nav:
+- Home: index.md
+- Robots: robots.md
+- Sample: markdown_sample.md
+
+#####################
+# THEME
+theme:
+
+#####################
+# PLUGINS
+plugins:
+    - search
