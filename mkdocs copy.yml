@@ -1,0 +1,70 @@
+#####################
+# BASICS
+site_name: Edward Ross
+site_url: https://ejpickle.github.io
+markdown_extensions:
+    - smarty
+    - meta
+
+#####################
+# NAV 
+nav:
+- Home: index.md
+- Robots:
+    - FLLE: robots/flle.md
+
+#####################
+# THEME
+theme:
+    name: material
+    #custom_dir: docs/material
+
+    # 404 page
+    static_templates:
+        - 404.html
+
+    # Necessary for search to work properly
+    include_search_page: false
+    search_index_only: true
+
+    # Default values, taken from mkdocs_theme.yml, necessary for github pages deployment
+    language: en
+    font:
+        text: Roboto
+        code: Roboto Mono
+    favicon: assets/images/favicon.png
+    icon:
+        logo: logo
+    palette:
+        - scheme: default
+          primary: deep purple
+          accent: green
+          toggle:
+            icon: material/weather-sunny
+            name: Switch to dark mode
+        - scheme: slate 
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to light mode
+
+    # Additional Values
+    features:
+        - navigation.instant
+        - navigation.tracking
+        - toc.follow
+        - toc.integrate
+        - navigation.top
+
+#####################
+# EXTRAS
+extra:
+    social:
+        - icon: fontawesome/brands/linkedin
+          link: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+        - icon: fontawesome/brands/github
+          link: https://www.github.com/ejpickle
+
+#####################
+# PLUGINS
+plugins:
+    - search

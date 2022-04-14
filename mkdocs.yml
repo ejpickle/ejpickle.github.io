@@ -9,6 +9,7 @@ nav:
 - Home: index.md
 - Robots: robots.md
 - Sample: markdown_sample.md
+#- new_page: new_page.md
 
 #####################
 # THEME

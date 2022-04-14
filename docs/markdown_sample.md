@@ -11,9 +11,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
+    mkdocs.yml    # the configuration file.
+    docs
+        index.md  # the documentation homepage.
         ...       # Other markdown pages, images and other files.
 
 
@@ -21,18 +21,20 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 This page will be all about sizes and their usage. The following are what sizes are usally used for.
 
 *
-# H1 level (largest size)
 This will be a list of all of the different sizes of headings.
+# H1 level
+This is the H1 size.
 ## H2 level
-This is The H2 size, the second largest size that there is.
+This is the H2 size, one smaller than H1
 ### H3 level
-This is The H3 size, the third largest size that there is.
+This is the H3 size, one smaller than H2
 #### H4 level
-This is The H4 size, the third smallest size that there is.
+This is the H4 size, one smaller than H3
 ##### H5 level
-This is The H5 size, the second smallest size that there is.
-###### H6 level (smallest size)
-Warning: don't say I didn't warn you!!!
+This is the H5 size, one smaller than H4
+###### H6 level
+This is the H6 size one smaller than H5
+
 
 ## Image Sample
 
