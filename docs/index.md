@@ -24,7 +24,12 @@ I did not want my username to have anything to do with "Pickle"
 "Too late now"
 
 
-Link for my github
+Link for my LinkedIn
 
 
-[https://github.com/ejpickle/ejpickle.github.io](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[https://www.linkedin.com/in/edwardjross/](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+
+Link for my Github
+
+
+{https://github.com/ejpickle/ejpickle.github.io/actions}(https://github.com/ejpickle/ejpickle.github.io/actions)
